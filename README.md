@@ -48,9 +48,8 @@ Essa experiência me ajudou a enxergar a IA não apenas como suporte, mas como u
 ---
 
 ## 🔗 Acesse o Projeto
-
-👉 **Aplicação:**  
-👉 **Repositório:**  
+ 
+👉 **Repositório:**  https://github.com/IsaTiosso/catflix-front-end-ia 
 
 ---
 

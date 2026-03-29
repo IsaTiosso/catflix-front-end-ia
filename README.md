@@ -1,6 +1,6 @@
-# 🎬 Netflix Front-End IA
+# 🎬 CatFlix 
 
-**Netflix Front-End IA** é um projeto inspirado na interface da Netflix, desenvolvido durante a **Imersão da Alura** com foco em **front-end**, **responsividade** e no uso estratégico da **Inteligência Artificial** como apoio no desenvolvimento.
+**CatFlix** é um projeto inspirado na interface da Netflix, desenvolvido durante a **Imersão da Alura** com foco em **front-end**, **responsividade** e no uso estratégico da **Inteligência Artificial** como apoio no desenvolvimento.
 
 Mais do que reproduzir um layout, este projeto representa a aplicação prática dos conhecimentos adquiridos ao longo da imersão, unindo criatividade, tecnologia e aprendizado contínuo.
 

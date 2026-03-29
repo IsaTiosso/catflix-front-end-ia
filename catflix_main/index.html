@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Netflix</title>
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="conteudo-principal">
+        <h1>Quem está assistindo?</h1>
+        <ul class="lista-perfis">
+            <!-- perfil 1 -->
+            <li class="item-perfil">
+                <a href="catalogo/catalogo.html" class="perfil">
+                    <figure class="avatar-container">
+                        <span class="imagem-perfil tema-cris" aria-hidden="true">
+                            <span class="icone-avatar">
+                                <img src="assets/gato_branco.png" alt="Perfil de Isabela" width="128" height="128">
+                            </span>
+                        </span>
+                        <figcaption class="nome-perfil">Isabela</figcaption>
+                    </figure>
+                </a>
+            </li>
+
+            <!-- perfil 2 -->
+            <li class="item-perfil">
+                <a href="catalogo/catalogo.html" class="perfil">
+                    <figure class="avatar-container">
+                        <span class="imagem-perfil tema-cris" aria-hidden="true">
+                            <span class="icone-avatar">
+                                <img src="assets/gato_laranja.png" alt="Perfil de Patricia" width="128" height="128">
+                            </span>
+                        </span>
+                        <figcaption class="nome-perfil">Patricia</figcaption>
+                    </figure>
+                </a>
+            </li>
+
+            <!-- perfil 3 -->
+            <li class="item-perfil">
+                <a href="catalogo/catalogo.html" class="perfil">
+                    <figure class="avatar-container">
+                        <span class="imagem-perfil tema-cris" aria-hidden="true">
+                            <span class="icone-avatar">
+                                <img src="assets/gato_preto.png" alt="Perfil de Lorenna" width="128" height="128">
+                            </span>
+                        </span>
+                        <figcaption class="nome-perfil">Lorenna</figcaption>
+                    </figure>
+                </a>
+            </li>
+
+        </ul>
+
+        <section class="gerenciar">
+            <button type="button" class="botao-gerenciar">Gerenciar Perfis</button>
+        </section>
+
+    </main>
+
+    <!-- Tela de carregamento -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="spinner"></div>
+        <p>Carregando...</p>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>

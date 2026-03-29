@@ -1,4 +1,4 @@
-# 🎬 CatFlix 
+# 🐱 CatFlix 
 
 **CatFlix** é um projeto inspirado na interface da Netflix, desenvolvido durante a **Imersão da Alura** com foco em **front-end**, **responsividade** e no uso estratégico da **Inteligência Artificial** como apoio no desenvolvimento.
 
